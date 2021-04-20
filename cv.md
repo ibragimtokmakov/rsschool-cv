@@ -7,4 +7,4 @@
 * code examples: console.log("Hello, World!")
 * Experience: 6 years in Google
 * Education: Android Developer Sertificate
-* English - Upper-Intermediate
+* English - Upper-Intermediate, practised for 7 years
